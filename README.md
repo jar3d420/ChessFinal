@@ -1,5 +1,7 @@
 # ChessFinal
 
+The JAR file is inside of the dist folder.
+
 # Made by Parker Chaffin and Jared Yakubsin
 
 includes:
