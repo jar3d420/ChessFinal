@@ -1,5 +1,7 @@
 # ChessFinal
-Made by Parker Chaffin and Jared Yakubsin
+
+# Made by Parker Chaffin and Jared Yakubsin
+
 includes:
 
 possible movement visualization
